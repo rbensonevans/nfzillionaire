@@ -1,0 +1,7 @@
+sunlaptop:nfz benson$ npm install @fleekhq/fleek-storage-js
+npm WARN deprecated text-encoding@0.7.0: no longer maintained
+npm ERR! code EINTEGRITY
+npm ERR! sha512-ZjWanOA1Zo664EyWLCnbUlkwCjoRPmSIMx529W4gk1418qo3oCEcvUy1HeibGGIClYnZZ7J4FMQvVDm2+JtHLQ== integrity checksum failed when using sha512: wanted sha512-ZjWanOA1Zo664EyWLCnbUlkwCjoRPmSIMx529W4gk1418qo3oCEcvUy1HeibGGIClYnZZ7J4FMQvVDm2+JtHLQ== but got sha512-9xmR/FcOiVOV7fgflfXMwrkpmjRTlfkseFC0HIWbUeBhSu4YPI4qKfzzE6spgaAy6oBI8/YJI82hMZfOO0F7CQ==. (1555847 bytes)
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/benson/.npm/_logs/2021-05-30T05_29_54_714Z-debug.log
